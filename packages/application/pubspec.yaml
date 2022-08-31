@@ -2,15 +2,13 @@ name: application
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
-publish_to: 'none'
-
+publish_to: "none"
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
-  domain:
-    path: ../domain
+  domain: 0.0.1
 
 dev_dependencies:
   lint: ^1.2.0

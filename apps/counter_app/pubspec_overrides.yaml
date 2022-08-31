@@ -1,4 +1,4 @@
-# melos_managed_dependency_overrides: domain,presentation,application
+# melos_managed_dependency_overrides: application,domain,presentation
 dependency_overrides:
   application:
     path: ../../packages/application
