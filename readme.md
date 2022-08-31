@@ -20,7 +20,7 @@ Instalar paquetes
 Para ejectuar la aplicación basta con:
 
 ```bash
-  flutter run
+  cd apps/counter_app && flutter run
 ```
 
 
